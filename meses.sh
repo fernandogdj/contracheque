@@ -1,0 +1,1 @@
+mkdir -p 2019/{Janeiro,Fevereiro,Mar\303\247o,Abril,Maio,Junho,Julho,Agosto,Setembro,Outubro,Novembro,Dezembro}
